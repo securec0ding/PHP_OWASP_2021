@@ -1,0 +1,1 @@
+http://localhost:2121/php-apps/xss_vulnerable_project/index.php?name=%3Cscript%3Ealert(%27XSS%20Attack!%27)%3C/script%3E
